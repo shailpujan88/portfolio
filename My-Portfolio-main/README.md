@@ -1,13 +1,13 @@
 # Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
 
-> See live demo: [https://itsvj.me](https://itsvj.me)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
+> See live demo: [https://vercel.com/shailpujan88s-projects/portfolio](https://vercel.com/shailpujan88s-projects/portfolio)    |  Feel free to use but **credit appreciated** and a **⭐** to repo ;)
 
-![Developer Portoflio](https://github.com/itsvijaysingh/My-Portfolio/blob/main/Developer%20Portolio%20Website.png)
+![Developer Portoflio](![image](https://github.com/user-attachments/assets/51cc3f85-ca2a-4874-ab23-78d6a489428b)
+)
 
 
-Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
+Hi there! I'm Shail, and this is my portfolio website code built with HTML, CSS, Bootstrap, and a touch of JavaScript. Let's dive into the features:
 
-> But, wait! Have any cool project ideas to share or need some work done? Just shoot me an email at hi@itsvj.me. Let's chat over a virtual coffee! 😊 And if you're wondering why you should consider working together, check out projects like **PfpFinder** (https://pfpfinder.com) (where you can find the best pfps - almost 50k+!), **Alt Text Generator** (https://alttext.tech/) (just upload an image to see what it is!), **Discord Lookup API** (https://github.com/itsvijaysingh/Discord-Lookup-API), and more! Check out my complete profile here: https://github.com/itsvijaysingh
 
 ## **Portfolio Features:**
 
@@ -30,8 +30,8 @@ Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS,
 
 ## **Want to see it live? 👀**
 
-* Visit: [https://itsvj.me/](https://itsvj.me/)
-* Or, explore the code on GitHub: [https://github.com/itsvijaysingh/My-Portfolio/](https://github.com/itsvijaysingh/My-Portfolio/)
+* Visit: [https://vercel.com/shailpujan88s-projects/portfolio](https://vercel.com/shailpujan88s-projects/portfolio)
+* Or, explore the code on GitHub: [https://github.com/shailpujan88/portfolio.git/](https://github.com/shailpujan88/portfolio.git)
 
 ## **Why This Web Developer Portfolio Stands Out**
 
@@ -39,8 +39,4 @@ Hi there! I'm Vijay, and this is my portfolio website code built with HTML, CSS,
 * **Attention to Detail:** Thoughtful font selections and animations add a polished touch. 
 * **Real Projects:**  This isn't just about tech skills, it's about what I can build!  
 
-## **Contact**
 
-Feel free to connect with me or leave feedback. I'm always learning and improving! 
-
-> ~ [hi@itsvj.me](mailto:hi@itsvj.me)
